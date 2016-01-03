@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Install resolveip from github
-# Usage: curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.1/install.sh | bash
-# Requires: make, git
+# Usage: curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.2/install.sh | bash
+# Requires: curl
 
 set -o errexit
 set -o nounset
