@@ -19,7 +19,7 @@ make install
 or
 
 ```
-curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.1/install.sh | bash
 ```
 
 ## Usage

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Install resolveip from the internet
-# Usage: curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.0/install.sh | bash
+# Usage: curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.1/install.sh | bash
 # Requires: make, git
 
 set -o errexit
