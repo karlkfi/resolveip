@@ -8,6 +8,20 @@ A bash script to determine the IP of a hostname
 Requires: getent (linux) or dscacheutil (mac)
 
 
+## Install
+
+```
+git clone https://github.com/karlkfi/resolveip
+cd resolveip
+make install
+```
+
+or
+
+```
+curl -o- https://raw.githubusercontent.com/karlkfi/resolveip/v1.0.0/install.sh | bash
+```
+
 ## Usage
 
 ```
